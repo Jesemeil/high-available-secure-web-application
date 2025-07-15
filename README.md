@@ -7,7 +7,7 @@
 
 
 
-##  **1. Executive Summary**
+##  **1. Summary**
 
 This architecture illustrates a **production-grade AWS deployment** of a high-availability, secure, and scalable web application using infrastructure as code (IaC) practices. The design follows the **AWS Well-Architected Framework** pillars—**Operational Excellence, Security, Reliability, Performance Efficiency**, and **Cost Optimization**—making it a model solution for real-world cloud deployments.
 
